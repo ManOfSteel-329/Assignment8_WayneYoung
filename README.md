@@ -19,4 +19,4 @@ To use this template:
 
 - `Import` this an Eclipse project as an `Existing Maven Project`.
 
-- Continue the Assignment8 per the Assignment5 course video.
+- Continue the Assignment8 per the Assignment5 course video.# Assignment8_WayneYoung

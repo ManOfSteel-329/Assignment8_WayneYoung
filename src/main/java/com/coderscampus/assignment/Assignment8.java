@@ -42,6 +42,7 @@ public class Assignment8 {
 
             System.out.println("Starting to fetch records " + start + " to " + (end));
         }
+
         // force thread to pause for half a second to simulate actual Http / API traffic
         // delay
         try {
